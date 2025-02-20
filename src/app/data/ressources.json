@@ -1,0 +1,125 @@
+[
+  {
+    "name": "Fer",
+    "picture": "/images/ressources/fer.png",
+    "craft": [],
+    "type": "base"
+  },
+  {
+    "name": "Charbon",
+    "picture": "/images/ressources/charbon.png",
+    "craft": [],
+    "type": "base"
+  },
+  {
+    "name": "Cuivre",
+    "picture": "/images/ressources/cuivre.png",
+    "craft": [],
+    "type": "base"
+  },
+  {
+    "name": "Etain",
+    "picture": "/images/ressources/etain.png",
+    "craft": [],
+    "type": "base"
+  },
+  {
+    "name": "Argent",
+    "picture": "/images/ressources/argent.png",
+    "craft": [],
+    "type": "base"
+  },
+  {
+    "name": "Sel",
+    "picture": "/images/ressources/sel.png",
+    "craft": [],
+    "type": "base"
+  },
+  {
+    "name": "Résine",
+    "picture": "/images/ressources/resine.png",
+    "craft": [],
+    "type": "base"
+  },
+  {
+    "name": "Or",
+    "picture": "/images/ressources/or.png",
+    "craft": [],
+    "type": "base"
+  },
+  {
+    "name": "Pierre de soleil",
+    "picture": "/images/ressources/pierredesoleil.png",
+    "craft": [],
+    "type": "base"
+  },
+  {
+    "name": "Minerais stellaire",
+    "picture": "/images/ressources/mineraistellaire.png",
+    "craft": [],
+    "type": "base"
+  },
+  {
+    "name": "Mithril",
+    "picture": "/images/ressources/mithril.png",
+    "craft": [],
+    "type": "base"
+  },
+  {
+    "name": "Pierre",
+    "picture": "/images/ressources/pierre.png",
+    "craft": [],
+    "type": "base"
+  },
+  {
+    "name": "Granit",
+    "picture": "/images/ressources/granit.png",
+    "craft": [],
+    "type": "base"
+  },
+  {
+    "name": "Diamant",
+    "picture": "/images/ressources/diamant.png",
+    "craft": [],
+    "type": "base"
+  },
+  {
+    "name": "Bois",
+    "picture": "/images/ressources/bois.png",
+    "craft": [],
+    "type": "base"
+  },
+  {
+    "name": "Bois elfique",
+    "picture": "/images/ressources/boiselfique.png",
+    "craft": [],
+    "type": "base"
+  },
+  {
+    "name": "Bois d'ubasam",
+    "picture": "/images/ressources/boisubasam.png",
+    "craft": [],
+    "type": "base"
+  },
+  {
+    "name": "Bois de fer",
+    "picture": "/images/ressources/boisdefer.png",
+    "craft": [],
+    "type": "test"
+  },
+  {
+    "name": "Lingots",
+    "picture": "/images/ressources/lingots.png",
+    "craft": [
+      {
+        "name": "Cuivre",
+        "quantity": 2
+      },
+      {
+        "name": "Étain",
+        "quantity": 1
+      }
+    ],
+    "type": "base"
+  }
+]

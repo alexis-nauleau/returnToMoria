@@ -1,0 +1,31 @@
+[
+    {
+      "name": "Épée en fer",
+      "picture": "/images/epee_fer.png",
+      "craft": [
+        {
+          "name": "Fer",
+          "quantity": 3
+        },
+        {
+          "name": "Bronze",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Hache de guerre",
+      "picture": "/images/hache_guerre.png",
+      "craft": [
+        {
+          "name": "Fer",
+          "quantity": 4
+        },
+        {
+          "name": "Or",
+          "quantity": 2
+        }
+      ]
+    }
+  ]
+  

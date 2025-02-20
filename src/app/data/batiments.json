@@ -1,0 +1,31 @@
+[
+    {
+      "name": "Forge",
+      "picture": "/images/forge.png",
+      "craft": [
+        {
+          "name": "Pierre",
+          "quantity": 10
+        },
+        {
+          "name": "Fer",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "name": "Tour de guet",
+      "picture": "/images/tour_guet.png",
+      "craft": [
+        {
+          "name": "Bois",
+          "quantity": 15
+        },
+        {
+          "name": "Pierre",
+          "quantity": 8
+        }
+      ]
+    }
+  ]
+  

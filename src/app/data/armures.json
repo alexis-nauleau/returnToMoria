@@ -1,0 +1,23 @@
+[
+    {
+      "name": "Casque en fer",
+      "picture": "/images/casque_fer.png",
+      "craft": [
+        {
+          "name": "Fer",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "name": "Plastron en or",
+      "picture": "/images/plastron_or.png",
+      "craft": [
+        {
+          "name": "Or",
+          "quantity": 5
+        }
+      ]
+    }
+  ]
+  

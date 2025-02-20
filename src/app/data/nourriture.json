@@ -1,0 +1,106 @@
+[
+    {
+      "name": "Fer",
+      "picture": "/images/fer.png",
+      "craft": []
+    },
+    {
+      "name": "Charbon",
+      "picture": "/images/or.png",
+      "craft": []
+    },
+    {
+      "name": "Cuivre",
+      "picture": "/images/bronze.png",
+      "craft": []
+    },
+    {
+      "name": "Etain",
+      "picture": "/images/bronze.png",
+      "craft": []
+    },
+    {
+      "name": "Argent",
+      "picture": "/images/bronze.png",
+      "craft": []
+    },
+    {
+      "name": "Sel",
+      "picture": "/images/bronze.png",
+      "craft": []
+    },
+    {
+      "name": "Résine",
+      "picture": "/images/bronze.png",
+      "craft": []
+    },
+    {
+      "name": "Or",
+      "picture": "/images/bronze.png",
+      "craft": []
+    },
+    {
+      "name": "Pierre de soleil",
+      "picture": "/images/bronze.png",
+      "craft": []
+    },
+    {
+      "name": "Minerais stellaire",
+      "picture": "/images/bronze.png",
+      "craft": []
+    },
+    {
+      "name": "Mithril",
+      "picture": "/images/bronze.png",
+      "craft": []
+    },
+    {
+      "name": "Pierre",
+      "picture": "/images/bronze.png",
+      "craft": []
+    },
+    {
+      "name": "Granit",
+      "picture": "/images/bronze.png",
+      "craft": []
+    },
+    {
+      "name": "Diamant",
+      "picture": "/images/bronze.png",
+      "craft": []
+    },
+    {
+      "name": "Bois",
+      "picture": "/images/bronze.png",
+      "craft": []
+    },
+    {
+      "name": "Bois elfique",
+      "picture": "/images/bronze.png",
+      "craft": []
+    },
+    {
+      "name": "Bois d'ubasam",
+      "picture": "/images/bronze.png",
+      "craft": []
+    },
+    {
+      "name": "Bois de fer",
+      "picture": "/images/bronze.png",
+      "craft": []
+    },
+    {
+      "name": "Lingots",
+      "picture": "/images/bronze.png",
+      "craft": [
+        {
+          "name": "Cuivre",
+          "quantity": 2
+        },
+        {
+          "name": "Étain",
+          "quantity": 1
+        }
+      ]
+    }
+  ]
